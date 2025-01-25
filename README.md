@@ -1,5 +1,6 @@
-# Ainulindale-Sit
-#Projeto realizado para atividades durante a Imersão DEV com Gemini na plataforma de cursos ALURA
+# Ainulindale-Site
+
+# Projeto realizado para atividades durante a Imersão DEV com Gemini na plataforma de cursos ALURA
 
 
 # "Mas dos Homens a profecia não fala, e deles só Túrin é nomeado, e a ele é concedido um lugar entre os filhos dos Valar."
@@ -29,7 +30,7 @@ Aqui você encontrará projetos, artigos e reflexões sobre temas que me inspira
 
 
 ### Contato
-🌐 www.linkedin.com/in/joão-paulo-nogueira-376573283/
+🌐 in/jpaulo-nogueira
 📧 Email: jpnogueira1981@gmail.com
 
 "Pois nem mesmo o menor dos seres pode imaginar o destino que os espera." — J.R.R. Tolkien
