@@ -31,6 +31,7 @@ Aqui você encontrará projetos, artigos e reflexões sobre temas que me inspira
 
 ### Contato
 🌐 in/jpaulo-nogueira
+
 📧 Email: jpnogueira1981@gmail.com
 
 "Pois nem mesmo o menor dos seres pode imaginar o destino que os espera." — J.R.R. Tolkien
