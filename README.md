@@ -1,4 +1,5 @@
-# Ainulindale-Site
+# Ainulindale-Sit
+#Projeto realizado para atividades durante a Imersão DEV com Gemini na plataforma de cursos ALURA
 
 
 # "Mas dos Homens a profecia não fala, e deles só Túrin é nomeado, e a ele é concedido um lugar entre os filhos dos Valar."
